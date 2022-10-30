@@ -1,0 +1,120 @@
+Phylum;Class;Order;Family;Genus;Subspecies;ARMS_COS_01;ARMS_COS_02;BBOX_COS_01;BBOX_COS_02;ARMS_RIB_01;ARMS_RIB_02;BBOX_RIB_01;BBOX_RIB_02
+Annelida;Polychaeta;Phyllodocida;Hesionidae;Hesiospina;Hesiospina aurantiaca;0;0;1;0;0;0;0;0
+Annelida;Polychaeta;Phyllodocida;Syllidae;Odontosyllis;Odontosyllis ctenostoma;0;0;1;0;0;0;0;0
+Annelida;Polychaeta;Phyllodocida;Chrysopetalidae;Chrysopetalum;Chrysopetalum debile;0;0;0;0;0;0;0;2
+Annelida;Polychaeta;Sabellida;Serpulidae;Vermiliopsis;Vermiliopsis infundibulum;0;0;0;0;0;0;0;1
+Annelida;Polychaeta;Phyllodocida;Syllidae;Syllis;Syllis krohnii;0;0;1;0;0;0;0;0
+Annelida;Polychaeta;Spionida;Spionidae;Prionospio;Prionospio multibranchiata;0;0;0;1;0;0;0;0
+Annelida;Polychaeta;Terebellida;Terebellidae;Eupolymnia;Eupolymnia nesidensis;0;0;0;0;0;0;0;1
+Annelida;Polychaeta;Phyllodocida;Polynoidae;Subadyte;Subadyte pellucida;0;0;1;1;0;0;0;0
+Annelida;Polychaeta;;Opheliidae;Polyophthalmus;Polyophthalmus pictus;0;0;0;0;0;0;1;0
+Annelida;Polychaeta;Phyllodocida;Syllidae;Syllis;Syllis prolifera;0;0;0;0;1;0;0;0
+Annelida;Polychaeta;Sabellida;Serpulidae;Hydroides;Hydroides pseudouncinata;0;0;0;0;0;0;0;3
+Annelida;Polychaeta;Phyllodocida;Nereididae;Nereis;Nereis rava;0;0;1;0;0;0;1;0
+Annelida;Polychaeta;Phyllodocida;Glyceridae;Glycera;Glycera tesselata;0;0;1;0;0;0;0;1
+Annelida;Polychaeta;Sabellida;Serpulidae;Spirobranchus;Spirobranchus triqueter;0;0;1;0;0;0;0;0
+Annelida;Polychaeta;Sabellida;Serpulidae;Serpula;Serpula vermicularis;0;0;0;0;0;0;0;1
+Annelida;Polychaeta;Phyllodocida;Syllidae;Myrianida;;0;0;0;0;1;0;0;0
+Annelida;Polychaeta;Phyllodocida;Polynoidae;Harmothoe;;0;0;1;0;0;0;0;0
+Annelida;Polychaeta;Phyllodocida;Phyllodocidae;;;0;0;0;0;1;0;0;0
+Annelida;Polychaeta;;;;;0;0;1;0;0;0;0;0
+Annelida;Polychaeta;Sabellida;Sabellidae;;;0;0;2;1;0;0;0;0
+Annelida;Polychaeta;Phyllodocida;Syllidae;Syllis;;0;0;1;0;0;0;0;0
+Annelida;Polychaeta;Terebellida;Terebellidae;;;0;0;0;1;1;0;0;0
+Annelida;Polychaeta;Terebellida;Terebellidae;;;0;0;0;0;0;0;0;1
+Annelida;Polychaeta;Sipunculida;;;;0;0;0;0;0;0;0;1
+Arthropoda;Malacostraca;Decapoda;Palaemonidae;Palaemon;Palaemon adspersus;0;0;0;1;9;0;0;0
+Arthropoda;Malacostraca;Decapoda;Paguridae;Pagurus;Pagurus alatus;0;0;2;0;0;0;0;0
+Arthropoda;Malacostraca;Decapoda;Paguridae;Pagurus;Pagurus anachoretus;0;0;0;0;0;0;0;3
+Arthropoda;Malacostraca;Amphipoda;Aoridae;Microdeutopus;Microdeutopus anomalus;0;0;1;0;0;0;0;1
+Arthropoda;Malacostraca;Decapoda;Homolidae;Homola;Homola barbata;0;0;1;0;1;0;1;0
+Arthropoda;Malacostraca;Decapoda;Pandalidae;Pandalina;Pandalina brevirostris;0;0;0;0;0;0;0;0
+Arthropoda;Malacostraca;Decapoda;Pandalidae;Pandalina;Pandalina brevirostris;5;6;0;8;0;0;1;0
+Arthropoda;Malacostraca;Decapoda;Thoridae;Eualus;Eualus cranchii;0;0;4;0;0;0;0;0
+Arthropoda;Malacostraca;Decapoda;Palaemonidae;Palaemon;Palaemon elegans;0;0;0;0;0;4;0;0
+Arthropoda;Malacostraca;Amphipoda;Nuuanuidae;Gammarella;Gammarella fucicola;0;0;0;0;0;0;0;4
+Arthropoda;Malacostraca;Decapoda;Alpheidae;Alpheus;Alpheus glaber;0;0;0;0;0;0;1;0
+Arthropoda;Malacostraca;Decapoda;Pilumnidae;Pilumnus;Pilumnus hirtellus;0;0;0;0;0;1;0;0
+Arthropoda;Malacostraca;Decapoda;Alpheidae;Alpheus;Alpheus macrocheles;0;0;0;0;0;0;1;0
+Arthropoda;Malacostraca;Decapoda;Epialtidae;Pisa;Pisa nodipes;0;0;1;0;0;0;0;0
+Arthropoda;Malacostraca;Amphipoda;Caprellidae;Pseudoprotella;Pseudoprotella phasma;0;0;0;0;1;0;0;0
+Arthropoda;Malacostraca;Isopoda;Sphaeromatidae;Paracerceis;Paracerceis sculpta;1;0;0;0;0;0;0;0
+Arthropoda;Malacostraca;Isopoda;Sphaeromatidae;Paracerceis;Paracerceis sculpta;0;0;0;0;0;0;0;0
+Arthropoda;Malacostraca;Decapoda;Lysmatidae;Lysmata;Lysmata seticaudata;0;0;1;0;0;0;0;0
+Arthropoda;Malacostraca;Amphipoda;Dexaminidae;Dexamine;Dexamine spiniventris;0;0;1;0;0;0;0;0
+Arthropoda;Malacostraca;Decapoda;Galatheidae;Galathea;Galathea strigosa;2;3;0;1;1;1;1;0
+Arthropoda;Malacostraca;Decapoda;Paguridae;Cestopagurus;Cestopagurus timidus;7;6;0;0;0;0;0;0
+Arthropoda;Malacostraca;Decapoda;Thoridae;Eualus;;0;0;0;0;0;0;2;5
+Arthropoda;Malacostraca;Decapoda;Galatheidae;Galathea;;0;0;0;0;0;0;0;1
+Arthropoda;Malacostraca;Decapoda;Paguridae;;;0;6;4;1;16;4;1;0
+Arthropoda;Malacostraca;Decapoda;Paguridae;Pagurus;;0;0;0;0;5;3;0;3
+Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;Amphiura;Amphiura chiajei;0;0;1;0;0;0;0;0
+Echinodermata;Echinoidea;Camarodonta;Parechinidae;Paracentrotus;Paracentrotus lividus;0;0;0;0;0;1;0;1
+Echinodermata;Echinoidea;Arbacioida;Arbaciidae;Arbacia;Arbacia lixula;0;0;3;2;0;1;0;4
+Echinodermata;Ophiuroidea;Ophiacanthida;Ophiodermatidae;Ophioderma;Ophioderma longicaudum;0;0;0;0;1;0;0;0
+Echinodermata;Ophiuroidea;Amphilepidida;Amphiuridae;Amphipholis;Amphipholis squamata;0;0;0;0;1;0;0;0
+Mollusca;Gastropoda;Littorinimorpha;Rissoidae;Alvania;Alvania aartseni;0;0;0;0;1;0;0;0
+Mollusca;Gastropoda;Neogastropoda;Fasciolariidae;Fusinus;Fusinus albacarinoides;0;0;0;0;0;6;3;3
+Mollusca;Gastropoda;Neogastropoda;Raphitomidae;Raphitoma;Raphitoma atropurpurea;0;0;0;0;1;0;0;0
+Mollusca;Bivalvia;Arcida;Arcidae;Barbatia;Barbatia barbata;0;0;0;0;0;0;1;0
+Mollusca;Gastropoda;Littorinimorpha;Rissoidae;Alvania;Alvania beanii;0;0;1;0;0;0;0;0
+Mollusca;Gastropoda;Neogastropoda;Columbellidae;Mitrella;Mitrella broderipii;0;0;0;0;0;0;2;13
+Mollusca;Gastropoda;Littorinimorpha;Rissoidae;Alvania;Alvania cimex;0;0;0;0;0;0;0;2
+Mollusca;Gastropoda;Trochida;Calliostomatidae;Calliostoma;Calliostoma conulus;0;0;0;0;1;0;0;0
+Mollusca;Polyplacophora;Chitonida;Chitonidae;Rhyssoplax;Rhyssoplax corallina;0;0;0;0;0;0;0;1
+Mollusca;Gastropoda;Neogastropoda;Mitridae;Isara;Isara cornea;0;0;0;0;4;1;0;0
+Mollusca;Gastropoda;Neogastropoda;Nassariidae;Tritia;Tritia cuvierii;0;0;0;0;1;0;0;0
+Mollusca;Gastropoda;Neogastropoda;Pisaniidae;Aplus;Aplus dorbignyi;0;0;0;0;0;0;0;1
+Mollusca;Gastropoda;Neogastropoda;Costellariidae;Pusia;Pusia ebenus;0;0;1;0;1;1;0;1
+Mollusca;Gastropoda;Trochida;Trochidae;Jujubinus;Jujubinus exasperatus;0;0;0;1;0;0;0;0
+Mollusca;Gastropoda;Trochida;Calliostomatidae;Calliostoma;Calliostoma gubbiolii;0;1;0;0;0;0;0;0
+Mollusca;Gastropoda;Littorinimorpha;Rissoidae;Rissoa;Rissoa guerinii;0;0;0;0;1;0;0;0
+Mollusca;Gastropoda;Neogastropoda;Nassariidae;Tritia;Tritia incrassata;0;0;0;0;1;1;0;0
+Mollusca;Gastropoda;Neogastropoda;Fasciolariidae;Fusinus;Fusinus labronicus;0;0;1;0;1;0;0;0
+Mollusca;Gastropoda;[unassigned] Caenogastropoda;Cerithiidae;Bittium;Bittium latreillii;0;0;0;1;0;0;0;0
+Mollusca;Gastropoda;Trochida;Calliostomatidae;Calliostoma;Calliostoma laugieri;0;0;1;1;1;0;0;0
+Mollusca;Gastropoda;Neogastropoda;Raphitomidae;Cyrillia;Cyrillia linearis;0;0;0;0;0;0;0;1
+Mollusca;Gastropoda;Littorinimorpha;Rissoidae;Alvania;Alvania lineata;0;1;0;0;0;0;0;0
+Mollusca;Gastropoda;Littorinimorpha;Rissoidae;Rissoa;Rissoa membranacea;0;0;0;0;0;0;0;1
+Mollusca;Gastropoda;Neogastropoda;Muricidae;Coralliophila;Coralliophila meyendorffii;0;0;0;0;2;0;0;0
+Mollusca;Gastropoda;Neogastropoda;Muricidae;Trophonopsis;Trophonopsis muricata;0;0;0;0;0;0;1;0
+Mollusca;Bivalvia;Arcida;Arcidae;Arca;Arca noae;0;0;0;0;0;0;0;1
+Mollusca;Bivalvia;Arcida;Arcidae;Asperarca;Asperarca nodulosa;1;0;0;0;0;0;0;0
+Mollusca;Gastropoda;Littorinimorpha;Littorinidae;Littorina;Littorina obtusata;0;0;1;0;0;0;0;0
+Mollusca;Polyplacophora;Chitonida;Chitonidae;Rhyssoplax;Rhyssoplax olivacea;1;0;0;0;0;0;0;0
+Mollusca;Gastropoda;Neogastropoda;Fasciolariidae;Fusinus;Fusinus pulchellus;0;0;0;0;0;0;0;1
+Mollusca;Gastropoda;[unassigned] Caenogastropoda;Cerithiidae;Bittium;Bittium reticulatum;0;0;0;0;0;1;0;0
+Mollusca;Gastropoda;[unassigned] Caenogastropoda;Cerithiidae;Bittium;Bittium reticulatum;0;0;0;0;2;0;0;0
+Mollusca;Gastropoda;Trochida;Turbinidae;Bolma;Bolma rugosa;0;1;0;0;0;0;0;0
+Mollusca;Gastropoda;Neogastropoda;Columbellidae;Columbella;Columbella rustica;2;2;10;0;9;5;0;3
+Mollusca;Gastropoda;Neogastropoda;Fasciolariidae;Fusinus;Fusinus rusticulus;0;0;0;0;1;0;0;0
+Mollusca;Gastropoda;Neogastropoda;Costellariidae;Pusia;Pusia savignyi;0;0;0;0;0;0;0;1
+Mollusca;Gastropoda;Neogastropoda;Muricidae;Dermomurex;Dermomurex scalaroides;0;0;0;1;1;0;0;1
+Mollusca;Gastropoda;Neogastropoda;Columbellidae;Mitrella;Mitrella scripta;0;0;0;0;0;0;0;10
+Mollusca;Bivalvia;Arcida;Arcidae;Asperarca;Asperarca secreta;0;0;0;1;0;0;0;0
+Mollusca;Polyplacophora;Callochitonida;Callochitonidae;Callochiton;Callochiton septemvalvis;0;0;0;0;0;0;0;1
+Mollusca;Gastropoda;[unassigned] Caenogastropoda;Cerithiidae;Bittium;Bittium simplex;0;4;9;0;12;0;2;9
+Mollusca;Gastropoda;Neogastropoda;Columbellidae;Mitrella;Mitrella svelta;0;0;0;0;4;0;1;1
+Mollusca;Gastropoda;Neogastropoda;Mangeliidae;Mangelia;Mangelia taeniata;0;1;0;0;0;0;0;0
+Mollusca;Gastropoda;Neogastropoda;Costellariidae;Pusia;Pusia tricolor;1;0;0;0;0;0;0;0
+Mollusca;Gastropoda;Neogastropoda;Muricidae;Hexaplex;Hexaplex trunculus;0;0;0;0;0;0;1;4
+Mollusca;Gastropoda;[unassigned] Caenogastropoda;Turritellidae;Turritella;Turritella turbona;0;0;0;0;0;1;2;0
+Mollusca;Gastropoda;Trochida;Trochidae;Steromphala;Steromphala umbilicalis;0;0;0;0;1;0;0;0
+Mollusca;Bivalvia;Pectinida;Pectinidae;Mimachlamys;Mimachlamys varia;1;1;1;0;0;0;0;0
+Mollusca;Gastropoda;Littorinimorpha;Rissoidae;Rissoa;Rissoa violacea;0;0;0;1;0;0;0;1
+Mollusca;Gastropoda;Trochida;Calliostomatidae;Calliostoma;Calliostoma zizyphinum;0;1;0;0;0;0;0;1
+Mollusca;Gastropoda;Littorinimorpha;Rissoidae;Alvania;;0;1;0;0;0;0;0;0
+Mollusca;Bivalvia;Arcida;Arcidae;;;0;0;0;0;0;0;0;1
+Mollusca;Gastropoda;[unassigned] Caenogastropoda;Cerithiidae;Bittium;;0;0;0;0;0;0;0;1
+Mollusca;Gastropoda;Trochida;Calliostomatidae;Calliostoma;;0;0;0;1;0;0;0;0
+Mollusca;Gastropoda;Neogastropoda;Pisaniidae;Cantharus;;0;0;1;0;0;0;0;0
+Mollusca;Gastropoda;Neogastropoda;Muricidae;Coralliophila;;0;0;0;0;1;0;0;0
+Mollusca;Gastropoda;Neogastropoda;Fasciolariidae;Fusinus;;0;0;0;0;0;0;3;0
+Mollusca;Gastropoda;;;;;0;0;0;0;1;0;0;0
+Mollusca;Gastropoda;;;;;0;0;0;0;1;0;0;0
+Mollusca;Gastropoda;Cephalaspidea;Haminoeidae;Haminoea;;0;0;0;1;0;0;0;0
+Mollusca;Gastropoda;Littorinimorpha;Littorinidae;Littorina;;0;0;0;0;1;0;0;0
+Mollusca;Gastropoda;Neogastropoda;Raphitomidae;Raphitoma;;0;0;0;1;0;0;0;0
+Mollusca;Gastropoda;Littorinimorpha;Rissoidae;Rissoa;;0;0;0;0;0;0;0;4
+Mollusca;Gastropoda;Trochida;Trochidae;;;0;0;1;0;1;0;0;0
+Nemertea;;;;;;0;0;1;0;0;0;0;1
