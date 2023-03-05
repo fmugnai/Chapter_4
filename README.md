@@ -1,5 +1,5 @@
 # Chapter_4
-## Using ASUs and integrative taxonomy to characterize marine biogenic reefs
+## Comparing two standardized sampling structures through integrative taxonomy in characterizing temperate marine biogenic reefs
 ### In this file collection you can find supplementary material relative at Chapter 4 of Francesco Mugnai’s PhD thesis.
 #### Please note that all the CSV files have semicolon (;) as column separator.
 1. A complete list of available manuscripts employing ARMS structures is presented in **Data_S1_ARMS_studies.xlsx**.
